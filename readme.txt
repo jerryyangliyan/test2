@@ -3,4 +3,8 @@ Second change!
 Third change!
 Fouth change!
 Fifth change!
+<<<<<<< HEAD
 branch 2 
+=======
+branch 2
+>>>>>>> dev
