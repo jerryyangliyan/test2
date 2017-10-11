@@ -11,3 +11,7 @@ branch 2
 bob's change
 yang's change
 this is the new dev.
+<<<<<<< HEAD
+=======
+bug solve.
+>>>>>>> issue01
